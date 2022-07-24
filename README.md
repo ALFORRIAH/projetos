@@ -40,32 +40,43 @@
 
 * https://outracidade.com.br/estudo-identifica-gentrificacao-partir-de-check-ins-em-redes-sociais/
 
-<a href="#top">Voltar ao índice</a>
+<a href="#top">Voltar ao topo</a>
 
 ---------- 
 
 ### Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022
 
-Definir escopo
-Candidatos a que cargo? Qual o(s) período(s) das menções?
-Levantamento dos dados
-Conseguir acesso à API do Twitter; armazenar os dados.
-Pesquisas de intenção de votos
-Caracterizar
-O que é menção? Apenas @? Nome na Urna? Apelidos?
-Quais as queries específicas para o Twitter?
-O que é menção positiva e negativa? Usar APIs (Google?) ou classificar manualmente?
-Ideias
-Filtrar bots? Usar os dados de bots?
-Categorizar menções: imprensa, seguidores, famosos…
-Análise de redes;
-Influência na intenção geral de votos.
-Usar as datas de divulgação das pesquisas de intenção.
-Referências
-Análise de sentimentos
-https://cloud.google.com/natural-language/docs/analyzing-sentiment?hl=pt-br 
-Análise sobre o voto impresso
-Gephi
+**Definir escopo**
+* Candidatos a que cargo? Qual o(s) período(s) das menções?
+
+**Levantamento dos dados**
+* Conseguir acesso à API do Twitter; armazenar os dados.
+* Pesquisas de intenção de votos
+
+**Caracterizar**
+
+* O que é menção? Apenas @? Nome na Urna? Apelidos?
+* Quais as queries específicas para o Twitter?
+* O que é menção positiva e negativa? 
+* Usar APIs (Google?) ou classificar manualmente?
+
+**Ideias**
+* Filtrar bots? Usar os dados de bots?
+* Categorizar menções: imprensa, seguidores, famosos…
+* Análise de redes
+* Influência na intenção geral de votos.
+* Usar as datas de divulgação das pesquisas de intenção.
+
+**Referências**
+* [Análise de sentimentos](https://cloud.google.com/natural-language/docs/analyzing-sentiment?hl=pt-br )
+* Análise sobre o voto impresso
+* Gephi
+
+
+<a href="#top">Voltar ao topo</a>
+
+--------
+
 
 ### Análise das diferenças salariais entre atletas do gênero masculino e feminino
 Definir escopo:
