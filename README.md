@@ -40,6 +40,10 @@
 
 * https://outracidade.com.br/estudo-identifica-gentrificacao-partir-de-check-ins-em-redes-sociais/
 
+<a href="#top">Voltar ao índice</a>
+
+---------- 
+
 ### Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022
 
 Definir escopo
