@@ -1,45 +1,46 @@
 # Repositório de Projetos e Ideias
 
-<!-- vscode-markdown-toc -->
-* 1. [Identificação de processos de gentrificação a partir da análise de dados urbanos.](#Identificaodeprocessosdegentrificaoapartirdaanlisededadosurbanos.)
-* 2. [Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022](#IdentificarcandidatosmaismencionadospositivamenteenegativamentenoTwitterparaaseleies2022)
-* 3. [Análise das diferenças salariais entre atletas do gênero masculino e feminino](#Anlisedasdiferenassalariaisentreatletasdogneromasculinoefeminino)
-* 4. [Prever a quantidade de aviões que serão necessários nos próximos 10 anos.](#Preveraquantidadedeaviesqueseronecessriosnosprximos10anos.)
-* 5. [Análise de investimento em campanhas eleitorais com o número de votos](#Anlisedeinvestimentoemcampanhaseleitoraiscomonmerodevotos)
-* 6. [Traçar o perfil de diversidade em empresas brasileiras](#Traaroperfildediversidadeemempresasbrasileiras)
-* 7. [Fatores chave para o sucesso de uma música](#Fatoreschaveparaosucessodeumamsica)
-* 8. [Construir uma plataforma de descrição de imagens / texto](#Construirumaplataformadedescriodeimagenstexto)
-* 9. [Identificação de um idioma a partir do som](#Identificaodeumidiomaapartirdosom)
-* 10. [Outras ideias](#Outrasideias)
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+1. [Identificação de processos de gentrificação a partir da análise de dados urbanos.](#identificação-de-processos-de-gentrificação-a-partir-da-análise-de-dados-urbanos)
+2. [Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022](#identificar-candidatos-mais-mencionados-positivamente-e-negativamente-no-twitter-para-as-eleições-2022)
+3. [Análise das diferenças salariais entre atletas do gênero masculino e feminino](#análise-das-diferenças-salariais-entre-atletas-do-gênero-masculino-e-feminino)
+4. [Prever a quantidade de aviões que serão necessários nos próximos 10 anos.](#prever-a-quantidade-de-aviões-que-serão-necessários-nos-próximos-10-anos)
+5. [Análise de investimento em campanhas eleitorais com o número de votos](#análise-de-investimento-em-campanhas-eleitorais-com-o-número-de-votos)
+6. [Traçar o perfil de diversidade em empresas brasileiras](#traçar-o-perfil-de-diversidade-em-empresas-brasileiras)
+7. [Fatores chave para o sucesso de uma música](#fatores-chave-para-o-sucesso-de-uma-música)
+8. [Construir uma plataforma de descrição de imagens / texto](#construir-uma-plataforma-de-descrição-de-imagens--texto)
+9. [Identificação de um idioma a partir do som](#identificação-de-um-idioma-a-partir-do-som)
+10. [Outras ideias](#outras-ideias)
 
+### Identificação de processos de gentrificação a partir da análise de dados urbanos.
 
-###  1. <a name='Identificaodeprocessosdegentrificaoapartirdaanlisededadosurbanos.'></a>Identificação de processos de gentrificação a partir da análise de dados urbanos.
+**Definir o escopo de trabalho:**
 
-Definir o escopo de trabalho:
-Local ex: São Paulo? Rio de Janeiro (datalake)?
-Projeto urbano (metrô? obras das Olimpíadas? pedágios...)
-Levantar os dados necessários
-Dados demográficos, IBGE, PNAD; dados abertos do município
-Requisitar via LAI (IPTU?)
-Caracterizar gentrificação; que indicadores existem nos dados?
-Variação da renda da população
-Preço do m² dos imóveis; IPTU?
-Composição racial da população
-Abrangência do saneamento básico.
-Variação da população da região e de regiões no entorno.
-Variações na oferta de transporte público.
-Trabalhos futuros:
-Encontrar possíveis candidatos - locais com perfis similares - à gentrificação no futuro próximo.
-Referências
-https://outracidade.com.br/estudo-identifica-gentrificacao-partir-de-check-ins-em-redes-sociais/
+* Local ex: São Paulo? Rio de Janeiro (datalake)?
+* Projeto urbano (metrô? obras das Olimpíadas? pedágios...)
 
-###  2. <a name='IdentificarcandidatosmaismencionadospositivamenteenegativamentenoTwitterparaaseleies2022'></a>Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022
+**Levantar os dados necessários**
+
+* Dados demográficos, IBGE, PNAD; dados abertos do município
+* Requisitar via LAI (IPTU?)
+
+**Caracterizar gentrificação** 
+* que indicadores existem nos dados?
+* Variação da renda da população
+* Preço do m² dos imóveis; IPTU?
+* Composição racial da população
+* Abrangência do saneamento básico.
+* Variação da população da região e de regiões no entorno.
+* Variações na oferta de transporte público.
+
+**Trabalhos futuros:**
+* Encontrar possíveis candidatos - locais com perfis similares - à gentrificação no futuro próximo.
+
+**Referências**
+
+* https://outracidade.com.br/estudo-identifica-gentrificacao-partir-de-check-ins-em-redes-sociais/
+
+### Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022
 
 Definir escopo
 Candidatos a que cargo? Qual o(s) período(s) das menções?
@@ -62,7 +63,7 @@ https://cloud.google.com/natural-language/docs/analyzing-sentiment?hl=pt-br
 Análise sobre o voto impresso
 Gephi
 
-###  3. <a name='Anlisedasdiferenassalariaisentreatletasdogneromasculinoefeminino'></a>Análise das diferenças salariais entre atletas do gênero masculino e feminino
+### Análise das diferenças salariais entre atletas do gênero masculino e feminino
 Definir escopo:
 Esporte; campeonato; 
 Como diferenciar valor “em carteira” de “direito de imagem”.
@@ -80,7 +81,7 @@ Comparar diferentes países; diferentes campeonatos.
 Analisar notícias
 
 
-###  4. <a name='Preveraquantidadedeaviesqueseronecessriosnosprximos10anos.'></a>Prever a quantidade de aviões que serão necessários nos próximos 10 anos.
+### Prever a quantidade de aviões que serão necessários nos próximos 10 anos.
 
 Definir escopo
 Voos domésticos ou internacionais? Local e rotas?
@@ -96,7 +97,7 @@ Análise de séries temporais
 Referências
 https://www.faa.gov/data_research/aviation 
 
-###  5. <a name='Anlisedeinvestimentoemcampanhaseleitoraiscomonmerodevotos'></a>Análise de investimento em campanhas eleitorais com o número de votos
+### Análise de investimento em campanhas eleitorais com o número de votos
 
 Definir escopo
 Qual eleição? Que cargo? 
@@ -112,7 +113,7 @@ Analisar se os custos de campanha cresceram acima da inflação.
 O que há nos outliers que se elegeram?
 Análise por gênero.
 
-###  6. <a name='Traaroperfildediversidadeemempresasbrasileiras'></a>Traçar o perfil de diversidade em empresas brasileiras
+### Traçar o perfil de diversidade em empresas brasileiras
 
 
 Escopo
@@ -131,7 +132,7 @@ https://www.mckinsey.com/business-functions/people-and-organizational-performanc
 https://smartlabbr.org/diversidade/ 
 
 
-###  7. <a name='Fatoreschaveparaosucessodeumamsica'></a>Fatores chave para o sucesso de uma música
+###  Fatores chave para o sucesso de uma música
 
 Escopo
 O que é uma música bem sucedida? Quando (período no tempo)? Nicho?
@@ -148,7 +149,7 @@ Sugestões
 Analisar fatores como divulgação, perfil dos artistas, rádio
 
 
-###  8. <a name='Construirumaplataformadedescriodeimagenstexto'></a>Construir uma plataforma de descrição de imagens / texto
+### Construir uma plataforma de descrição de imagens / texto
 
 
 Escopo
@@ -170,7 +171,7 @@ Aprendizado “””multitask””” - aprender mais de uma tarefa. Component
 Componente de Processamento de Linguagem Natural - redes recorrentes, transformers
 
 
-###  9. <a name='Identificaodeumidiomaapartirdosom'></a>Identificação de um idioma a partir do som
+### Identificação de um idioma a partir do som
 
 Escopo
 Usar Speech to Text (STT); Relacionar sinal de áudio com idioma?
@@ -187,7 +188,7 @@ Sugestão
 Incrementar um modelo já treinado com uma nova língua.
 
 
-###  10. <a name='Outrasideias'></a>Outras ideias
+###  Outras ideias
 
 Construção de um dataset de libras com imagens sintéticas.
 Análise do perfil das empresas cadastradas no Brasil.
