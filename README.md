@@ -1,16 +1,16 @@
 # Repositório de Projetos e Ideias
 
 <!-- vscode-markdown-toc -->
-	* 1. [Identificação de processos de gentrificação a partir da análise de dados urbanos.](#Identificaodeprocessosdegentrificaoapartirdaanlisededadosurbanos.)
-	* 2. [Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022](#IdentificarcandidatosmaismencionadospositivamenteenegativamentenoTwitterparaaseleies2022)
-	* 3. [Análise das diferenças salariais entre atletas do gênero masculino e feminino](#Anlisedasdiferenassalariaisentreatletasdogneromasculinoefeminino)
-	* 4. [Prever a quantidade de aviões que serão necessários nos próximos 10 anos.](#Preveraquantidadedeaviesqueseronecessriosnosprximos10anos.)
-	* 5. [Análise de investimento em campanhas eleitorais com o número de votos](#Anlisedeinvestimentoemcampanhaseleitoraiscomonmerodevotos)
-	* 6. [Traçar o perfil de diversidade em empresas brasileiras](#Traaroperfildediversidadeemempresasbrasileiras)
-	* 7. [Fatores chave para o sucesso de uma música](#Fatoreschaveparaosucessodeumamsica)
-	* 8. [Construir uma plataforma de descrição de imagens / texto](#Construirumaplataformadedescriodeimagenstexto)
-	* 9. [Identificação de um idioma a partir do som](#Identificaodeumidiomaapartirdosom)
-	* 10. [Outras ideias](#Outrasideias)
+* 1. [Identificação de processos de gentrificação a partir da análise de dados urbanos.](#Identificaodeprocessosdegentrificaoapartirdaanlisededadosurbanos.)
+* 2. [Identificar candidatos mais mencionados (positivamente e negativamente) no Twitter para as eleições 2022](#IdentificarcandidatosmaismencionadospositivamenteenegativamentenoTwitterparaaseleies2022)
+* 3. [Análise das diferenças salariais entre atletas do gênero masculino e feminino](#Anlisedasdiferenassalariaisentreatletasdogneromasculinoefeminino)
+* 4. [Prever a quantidade de aviões que serão necessários nos próximos 10 anos.](#Preveraquantidadedeaviesqueseronecessriosnosprximos10anos.)
+* 5. [Análise de investimento em campanhas eleitorais com o número de votos](#Anlisedeinvestimentoemcampanhaseleitoraiscomonmerodevotos)
+* 6. [Traçar o perfil de diversidade em empresas brasileiras](#Traaroperfildediversidadeemempresasbrasileiras)
+* 7. [Fatores chave para o sucesso de uma música](#Fatoreschaveparaosucessodeumamsica)
+* 8. [Construir uma plataforma de descrição de imagens / texto](#Construirumaplataformadedescriodeimagenstexto)
+* 9. [Identificação de um idioma a partir do som](#Identificaodeumidiomaapartirdosom)
+* 10. [Outras ideias](#Outrasideias)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
